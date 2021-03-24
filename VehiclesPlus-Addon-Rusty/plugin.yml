@@ -1,0 +1,5 @@
+name: VehiclesPlus-Addon-Rusty
+version: 1.0
+main: at.zyroxlp.vehiclesplus.addon.rusty.main.Main
+api-version: 1.14
+author: ZyroxLP
